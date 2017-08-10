@@ -58,19 +58,19 @@ details explaination is in https://d396qusza40orc.cloudfront.net/getdata%2Fproje
 * fBodyAccJerk-mean-Y
 * fBodyAccJerk-mean-Z
 * fBodyAccJerk-std-X
-#fBodyAccJerk-std-Y
-#fBodyAccJerk-std-Z
-#fBodyGyro-mean-X
-#fBodyGyro-mean-Y
-#fBodyGyro-mean-Z
-#fBodyGyro-std-X
-#fBodyGyro-std-Y
-#fBodyGyro-std-Z
-#fBodyAccMag-mean
-#fBodyAccMag-std
-#fBodyBodyAccJerkMag-mean
-#fBodyBodyAccJerkMag-std
-#fBodyBodyGyroMag-mean
-#fBodyBodyGyroMag-std
-#fBodyBodyGyroJerkMag-mean
-#fBodyBodyGyroJerkMag-std
+* fBodyAccJerk-std-Y
+* fBodyAccJerk-std-Z
+* fBodyGyro-mean-X
+* fBodyGyro-mean-Y
+* fBodyGyro-mean-Z
+* fBodyGyro-std-X
+* fBodyGyro-std-Y
+* fBodyGyro-std-Z
+* fBodyAccMag-mean
+* fBodyAccMag-std
+* fBodyBodyAccJerkMag-mean
+* fBodyBodyAccJerkMag-std
+* fBodyBodyGyroMag-mean
+* fBodyBodyGyroMag-std
+* fBodyBodyGyroJerkMag-mean
+* fBodyBodyGyroJerkMag-std
