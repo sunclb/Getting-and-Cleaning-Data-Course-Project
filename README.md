@@ -1,28 +1,27 @@
 # Getting-and-Cleaning-Data-Course-Project
-# This repository contains R function run_analysis.R to tidy and summarize data according to project requirement
-#######################
-#Instructions
-#Step 1: unzip getdata_projectfiles_UCI HAR Dataset.zip to 
-#getdata_projectfiles_UCI HAR Dataset folder in your working directory
-#Step 2: run function run_analysis() in R
-#Result: result.txt will be created in folder"./getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset"
-############################# explaination is in https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-#activity
-#subject
-#tBodyAcc-mean-X
-#tBodyAcc-mean-Y
-#tBodyAcc-mean-Z
-#tBodyAcc-std-X
-#tBodyAcc-std-Y
-#tBodyAcc-std-Z
-#tGravityAcc-mean-X
-#tGravityAcc-mean-Y
-#tGravityAcc-mean-Z
-#tGravityAcc-std-X
-#tGravityAcc-std-Y
-#tGravityAcc-std-Z
-#tBodyAccJerk-mean-X
-#tBodyAccJerk-mean-Y
+This repository contains R function run_analysis.R to tidy and summarize data according to project requirement
+## Instructions
+* Step 1: unzip "getdata_projectfiles_UCI HAR Dataset.zip" to "getdata_projectfiles_UCI HAR Dataset" folder in your working directory
+* Step 2: run function run_analysis() in R
+* Result: result.txt will be created in folder"./getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset"
+## Variable Names
+details explaination is in https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</h3> 
+* activity: strings. activities
+* subject: numeric. subject ID
+* tBodyAcc-mean-X
+* tBodyAcc-mean-Y
+* tBodyAcc-mean-Z
+* tBodyAcc-std-X
+* tBodyAcc-std-Y
+* tBodyAcc-std-Z
+* tGravityAcc-mean-X
+* tGravityAcc-mean-Y
+* tGravityAcc-mean-Z
+* tGravityAcc-std-X
+* tGravityAcc-std-Y
+* tGravityAcc-std-Z
+* tBodyAccJerk-mean-X
+* tBodyAccJerk-mean-Y
 #tBodyAccJerk-mean-Z
 #tBodyAccJerk-std-X
 #tBodyAccJerk-std-Y
