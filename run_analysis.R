@@ -48,8 +48,8 @@ run_analysis<-function(){
   
   ###############################
   #add activity description to classtables
-  testclasstab<-merge(testclasstab,activitytable,by.x="V1",by.y="V1")
-  trainclasstab<-merge(trainclasstab,activitytable,by.x="V1",by.y="V1")
+  testclasstab[,2]<-factor(testclasstab[,1],levels=activitytable[,1],labels=activitytable[,2])
+  trainclasstab[,2]<-factor(trainclasstab[,1],levels=activitytable[,1],labels=activitytable[,2])
   
   ###############################
   #add activity description to data table
